@@ -1,0 +1,9 @@
+F:\GitHub\BookTest\Book5.5.3\Book5.5.3\bin\Debug\Book5.5.3.exe.config
+F:\GitHub\BookTest\Book5.5.3\Book5.5.3\bin\Debug\Book5.5.3.exe
+F:\GitHub\BookTest\Book5.5.3\Book5.5.3\bin\Debug\Book5.5.3.pdb
+F:\GitHub\BookTest\Book5.5.3\Book5.5.3\obj\Debug\Book5.5.3.csprojResolveAssemblyReference.cache
+F:\GitHub\BookTest\Book5.5.3\Book5.5.3\obj\Debug\Book5._5._3.Form1.resources
+F:\GitHub\BookTest\Book5.5.3\Book5.5.3\obj\Debug\Book5._5._3.Properties.Resources.resources
+F:\GitHub\BookTest\Book5.5.3\Book5.5.3\obj\Debug\Book5.5.3.csproj.GenerateResource.Cache
+F:\GitHub\BookTest\Book5.5.3\Book5.5.3\obj\Debug\Book5.5.3.exe
+F:\GitHub\BookTest\Book5.5.3\Book5.5.3\obj\Debug\Book5.5.3.pdb
