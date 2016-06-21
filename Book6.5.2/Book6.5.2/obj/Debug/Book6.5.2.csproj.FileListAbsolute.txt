@@ -1,0 +1,6 @@
+F:\GitHub\BookTest\Book6.5.2\Book6.5.2\bin\Debug\Book6.5.2.exe.config
+F:\GitHub\BookTest\Book6.5.2\Book6.5.2\bin\Debug\Book6.5.2.exe
+F:\GitHub\BookTest\Book6.5.2\Book6.5.2\bin\Debug\Book6.5.2.pdb
+F:\GitHub\BookTest\Book6.5.2\Book6.5.2\obj\Debug\Book6.5.2.csprojResolveAssemblyReference.cache
+F:\GitHub\BookTest\Book6.5.2\Book6.5.2\obj\Debug\Book6.5.2.exe
+F:\GitHub\BookTest\Book6.5.2\Book6.5.2\obj\Debug\Book6.5.2.pdb
