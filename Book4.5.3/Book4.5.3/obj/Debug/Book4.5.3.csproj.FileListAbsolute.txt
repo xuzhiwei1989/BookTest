@@ -1,0 +1,5 @@
+c:\users\xzw\documents\visual studio 2012\Projects\Book4.5.3\Book4.5.3\bin\Debug\Book4.5.3.exe.config
+c:\users\xzw\documents\visual studio 2012\Projects\Book4.5.3\Book4.5.3\bin\Debug\Book4.5.3.exe
+c:\users\xzw\documents\visual studio 2012\Projects\Book4.5.3\Book4.5.3\bin\Debug\Book4.5.3.pdb
+c:\users\xzw\documents\visual studio 2012\Projects\Book4.5.3\Book4.5.3\obj\Debug\Book4.5.3.exe
+c:\users\xzw\documents\visual studio 2012\Projects\Book4.5.3\Book4.5.3\obj\Debug\Book4.5.3.pdb

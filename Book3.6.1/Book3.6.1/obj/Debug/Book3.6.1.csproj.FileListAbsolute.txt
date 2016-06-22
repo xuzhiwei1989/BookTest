@@ -1,0 +1,5 @@
+c:\users\xzw\documents\visual studio 2012\Projects\Book3.6.1\Book3.6.1\bin\Debug\Book3.6.1.exe.config
+c:\users\xzw\documents\visual studio 2012\Projects\Book3.6.1\Book3.6.1\bin\Debug\Book3.6.1.exe
+c:\users\xzw\documents\visual studio 2012\Projects\Book3.6.1\Book3.6.1\bin\Debug\Book3.6.1.pdb
+c:\users\xzw\documents\visual studio 2012\Projects\Book3.6.1\Book3.6.1\obj\Debug\Book3.6.1.exe
+c:\users\xzw\documents\visual studio 2012\Projects\Book3.6.1\Book3.6.1\obj\Debug\Book3.6.1.pdb
