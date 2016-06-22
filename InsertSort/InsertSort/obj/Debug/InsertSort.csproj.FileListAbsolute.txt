@@ -1,0 +1,6 @@
+F:\Github\BookTest\InsertSort\InsertSort\bin\Debug\InsertSort.exe.config
+F:\Github\BookTest\InsertSort\InsertSort\bin\Debug\InsertSort.exe
+F:\Github\BookTest\InsertSort\InsertSort\bin\Debug\InsertSort.pdb
+F:\Github\BookTest\InsertSort\InsertSort\obj\Debug\InsertSort.csprojResolveAssemblyReference.cache
+F:\Github\BookTest\InsertSort\InsertSort\obj\Debug\InsertSort.exe
+F:\Github\BookTest\InsertSort\InsertSort\obj\Debug\InsertSort.pdb
