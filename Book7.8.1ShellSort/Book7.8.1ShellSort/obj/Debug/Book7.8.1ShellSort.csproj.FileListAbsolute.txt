@@ -1,0 +1,6 @@
+F:\Github\BookTest\Book7.8.1ShellSort\Book7.8.1ShellSort\bin\Debug\Book7.8.1ShellSort.exe.config
+F:\Github\BookTest\Book7.8.1ShellSort\Book7.8.1ShellSort\bin\Debug\Book7.8.1ShellSort.exe
+F:\Github\BookTest\Book7.8.1ShellSort\Book7.8.1ShellSort\bin\Debug\Book7.8.1ShellSort.pdb
+F:\Github\BookTest\Book7.8.1ShellSort\Book7.8.1ShellSort\obj\Debug\Book7.8.1ShellSort.csprojResolveAssemblyReference.cache
+F:\Github\BookTest\Book7.8.1ShellSort\Book7.8.1ShellSort\obj\Debug\Book7.8.1ShellSort.exe
+F:\Github\BookTest\Book7.8.1ShellSort\Book7.8.1ShellSort\obj\Debug\Book7.8.1ShellSort.pdb
