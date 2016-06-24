@@ -11,9 +11,9 @@ namespace Book7._8._1ShellSort
         static void Main(string[] args)
         {
             Program pro = new Program();
-            int[] arr = { 1, 8, 9, 4, 3, 6, 2, 10, 70, 5, 90, 40, 0 };
+            int[] arr = { 1, 8, 9, 4, 3, 6, 2, 10, 70, 5, 90, 40, 0, 100, 43 };
             //int[] res = pro.ShellSort(arr, arr.Length);
-            pro.ShellSort(arr);
+            pro.Sort(arr, arr.Length);
             foreach (int i in arr)
             {
                 Console.Write(i + " ");
@@ -21,17 +21,24 @@ namespace Book7._8._1ShellSort
             Console.WriteLine();
         }
 
-        public void ShellSort(int[] arr)
+        public void Sort(int[] arr, int d)
         {
-            int d = arr.Length / 2;
-            while (d >= 1)
+            //int d = arr.Length / 2;
+            //while (d >= 1)
+            //{
+            //    ShellInsertSort(arr, d);
+            //    d = d / 2;
+            //}
+            if (d < 1)
             {
-                ShellInsertSort(arr, d);
-                d = d / 2;
+                return;
             }
+
+            ShellSort(arr, d);
+            Sort(arr, d / 2);
         }
 
-        public void ShellInsertSort(int[] arr,int d)
+        public void ShellSort(int[] arr,int d)
         {
             //int[] res = arr;
             for (int i = d; i < arr.Length; i++)
