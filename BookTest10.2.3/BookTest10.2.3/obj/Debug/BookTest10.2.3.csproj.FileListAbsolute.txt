@@ -1,0 +1,6 @@
+F:\Github\BookTest\BookTest10.2.3\BookTest10.2.3\bin\Debug\BookTest10.2.3.exe.config
+F:\Github\BookTest\BookTest10.2.3\BookTest10.2.3\bin\Debug\BookTest10.2.3.exe
+F:\Github\BookTest\BookTest10.2.3\BookTest10.2.3\bin\Debug\BookTest10.2.3.pdb
+F:\Github\BookTest\BookTest10.2.3\BookTest10.2.3\obj\Debug\BookTest10.2.3.csprojResolveAssemblyReference.cache
+F:\Github\BookTest\BookTest10.2.3\BookTest10.2.3\obj\Debug\BookTest10.2.3.exe
+F:\Github\BookTest\BookTest10.2.3\BookTest10.2.3\obj\Debug\BookTest10.2.3.pdb
