@@ -1,0 +1,5 @@
+F:\Github\BookTest\Book10.5.2\Book10.5.2\bin\Debug\Book10.5.2.exe.config
+F:\Github\BookTest\Book10.5.2\Book10.5.2\bin\Debug\Book10.5.2.exe
+F:\Github\BookTest\Book10.5.2\Book10.5.2\bin\Debug\Book10.5.2.pdb
+F:\Github\BookTest\Book10.5.2\Book10.5.2\obj\Debug\Book10.5.2.exe
+F:\Github\BookTest\Book10.5.2\Book10.5.2\obj\Debug\Book10.5.2.pdb
