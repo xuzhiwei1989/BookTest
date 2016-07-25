@@ -1,0 +1,6 @@
+F:\Github\BookTest\Book11.4.1\Book11.4.1\bin\Debug\Book11.4.1.exe.config
+F:\Github\BookTest\Book11.4.1\Book11.4.1\bin\Debug\Book11.4.1.exe
+F:\Github\BookTest\Book11.4.1\Book11.4.1\bin\Debug\Book11.4.1.pdb
+F:\Github\BookTest\Book11.4.1\Book11.4.1\obj\Debug\Book11.4.1.csprojResolveAssemblyReference.cache
+F:\Github\BookTest\Book11.4.1\Book11.4.1\obj\Debug\Book11.4.1.exe
+F:\Github\BookTest\Book11.4.1\Book11.4.1\obj\Debug\Book11.4.1.pdb
