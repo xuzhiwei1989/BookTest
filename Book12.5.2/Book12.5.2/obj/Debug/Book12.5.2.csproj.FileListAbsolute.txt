@@ -1,0 +1,7 @@
+F:\Github\BookTest\Book12.5.2\Book12.5.2\bin\Debug\Book12.5.2.exe.config
+F:\Github\BookTest\Book12.5.2\Book12.5.2\bin\Debug\Book12.5.2.exe
+F:\Github\BookTest\Book12.5.2\Book12.5.2\bin\Debug\Book12.5.2.pdb
+F:\Github\BookTest\Book12.5.2\Book12.5.2\obj\Debug\Book12._5._2.Properties.Resources.resources
+F:\Github\BookTest\Book12.5.2\Book12.5.2\obj\Debug\Book12.5.2.csproj.GenerateResource.Cache
+F:\Github\BookTest\Book12.5.2\Book12.5.2\obj\Debug\Book12.5.2.exe
+F:\Github\BookTest\Book12.5.2\Book12.5.2\obj\Debug\Book12.5.2.pdb
